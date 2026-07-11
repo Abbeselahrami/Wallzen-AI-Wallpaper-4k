@@ -2,6 +2,53 @@
   "version": 1,
   "categories": [
     {
+      "id": "live",
+      "name": "Live",
+      "cover": "https://picsum.photos/seed/wallzen-live-cover/800/400",
+      "wallpapers": [
+        {
+          "id": "live-001",
+          "thumb": "https://picsum.photos/seed/wallzen-live-001/400/711",
+          "full": "https://picsum.photos/seed/wallzen-live-001/1080/1920",
+          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "featured": true,
+          "premium": true
+        },
+        {
+          "id": "live-002",
+          "thumb": "https://picsum.photos/seed/wallzen-live-002/400/711",
+          "full": "https://picsum.photos/seed/wallzen-live-002/1080/1920",
+          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "featured": true,
+          "premium": false
+        },
+        {
+          "id": "live-003",
+          "thumb": "https://picsum.photos/seed/wallzen-live-003/400/711",
+          "full": "https://picsum.photos/seed/wallzen-live-003/1080/1920",
+          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+          "featured": false,
+          "premium": true
+        },
+        {
+          "id": "live-004",
+          "thumb": "https://picsum.photos/seed/wallzen-live-004/400/711",
+          "full": "https://picsum.photos/seed/wallzen-live-004/1080/1920",
+          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+          "featured": false,
+          "premium": false
+        },
+        {
+          "id": "live-005",
+          "thumb": "https://picsum.photos/seed/wallzen-live-005/400/711",
+          "full": "https://picsum.photos/seed/wallzen-live-005/1080/1920",
+          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+          "featured": false,
+          "premium": true
+        }
+      ]
+    },
+    {
       "id": "abstract",
       "name": "Abstract",
       "cover": "https://picsum.photos/seed/wallzen-abstract-cover/800/400",
@@ -10,8 +57,7 @@
           "id": "abstract-001",
           "thumb": "https://picsum.photos/seed/wallzen-abstract-1/400/711",
           "full": "https://picsum.photos/seed/wallzen-abstract-1/1080/1920",
-          "featured": true,
-          "premium": true
+          "featured": true
         },
         {
           "id": "abstract-002",
