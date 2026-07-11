@@ -20,6 +20,7 @@
     "interstitialOnOnboardingDone": true,
     "interstitialOnWallpaperOpen": true,
     "interstitialOnBack": true,
+    "interstitialOnDownload": true,
     "swipeInterval": 3,
     "minSecondsBetweenInterstitials": 15
   }
