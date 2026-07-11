@@ -1,10 +1,11 @@
 {
   "wallpapersUrl": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/refs/heads/main/wallpapers.json",
-  "privacyPolicyUrl": "https://sites.google.com/view/wallzenaiwallpaper4k-privacy",
-  "termsUrl": "https://sites.google.com/view/wallzenaiwallpaper4k-terms",
+  "privacyPolicyUrl": "https://withspy.com/wallzen/privacy.html",
+  "termsUrl": "https://withspy.com/wallzen/terms.html",
   "contactEmail": "mobistoryltd@outlook.com",
   "shareAppUrl": "https://apps.apple.com/app/id0000000000",
   "showLanguageEveryLaunch": true,
+  "liveEnabled": true,
   "ads": {
     "enabled": true,
     "appOpenEnabled": true,
