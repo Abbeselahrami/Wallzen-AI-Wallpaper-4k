@@ -1,10 +1,10 @@
 {
- "wallpapersUrl": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/refs/heads/main/wallpapers.json",
+  "wallpapersUrl": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/refs/heads/main/wallpapers.json",
   "privacyPolicyUrl": "https://withspy.com/wallzen/privacy.html",
   "termsUrl": "https://withspy.com/wallzen/terms.html",
   "contactEmail": "abbes.elahrami@gmail.com",
   "shareAppUrl": "https://apps.apple.com/app/id0000000000",
-  "showLanguageEveryLaunch": false,
+  "showLanguageEveryLaunch": true,
   "ads": {
     "enabled": true,
     "appOpenEnabled": true,
