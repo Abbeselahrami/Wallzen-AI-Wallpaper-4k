@@ -1,0 +1,953 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "abstract",
+      "name": "Abstract",
+      "cover": "https://picsum.photos/seed/wallzen-abstract-cover/800/400",
+      "wallpapers": [
+        {
+          "id": "abstract-001",
+          "thumb": "https://picsum.photos/seed/wallzen-abstract-1/400/711",
+          "full": "https://picsum.photos/seed/wallzen-abstract-1/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "abstract-002",
+          "thumb": "https://picsum.photos/seed/wallzen-abstract-2/400/711",
+          "full": "https://picsum.photos/seed/wallzen-abstract-2/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "abstract-003",
+          "thumb": "https://picsum.photos/seed/wallzen-abstract-3/400/711",
+          "full": "https://picsum.photos/seed/wallzen-abstract-3/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "abstract-004",
+          "thumb": "https://picsum.photos/seed/wallzen-abstract-4/400/711",
+          "full": "https://picsum.photos/seed/wallzen-abstract-4/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "abstract-005",
+          "thumb": "https://picsum.photos/seed/wallzen-abstract-5/400/711",
+          "full": "https://picsum.photos/seed/wallzen-abstract-5/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "abstract-006",
+          "thumb": "https://picsum.photos/seed/wallzen-abstract-6/400/711",
+          "full": "https://picsum.photos/seed/wallzen-abstract-6/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "abstract-007",
+          "thumb": "https://picsum.photos/seed/wallzen-abstract-7/400/711",
+          "full": "https://picsum.photos/seed/wallzen-abstract-7/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "abstract-008",
+          "thumb": "https://picsum.photos/seed/wallzen-abstract-8/400/711",
+          "full": "https://picsum.photos/seed/wallzen-abstract-8/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "abstract-009",
+          "thumb": "https://picsum.photos/seed/wallzen-abstract-9/400/711",
+          "full": "https://picsum.photos/seed/wallzen-abstract-9/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "abstract-010",
+          "thumb": "https://picsum.photos/seed/wallzen-abstract-10/400/711",
+          "full": "https://picsum.photos/seed/wallzen-abstract-10/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "abstract-011",
+          "thumb": "https://picsum.photos/seed/wallzen-abstract-11/400/711",
+          "full": "https://picsum.photos/seed/wallzen-abstract-11/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "abstract-012",
+          "thumb": "https://picsum.photos/seed/wallzen-abstract-12/400/711",
+          "full": "https://picsum.photos/seed/wallzen-abstract-12/1080/1920",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "cover": "https://picsum.photos/seed/wallzen-animals-cover/800/400",
+      "wallpapers": [
+        {
+          "id": "animals-001",
+          "thumb": "https://picsum.photos/seed/wallzen-animals-1/400/711",
+          "full": "https://picsum.photos/seed/wallzen-animals-1/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "animals-002",
+          "thumb": "https://picsum.photos/seed/wallzen-animals-2/400/711",
+          "full": "https://picsum.photos/seed/wallzen-animals-2/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "animals-003",
+          "thumb": "https://picsum.photos/seed/wallzen-animals-3/400/711",
+          "full": "https://picsum.photos/seed/wallzen-animals-3/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "animals-004",
+          "thumb": "https://picsum.photos/seed/wallzen-animals-4/400/711",
+          "full": "https://picsum.photos/seed/wallzen-animals-4/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "animals-005",
+          "thumb": "https://picsum.photos/seed/wallzen-animals-5/400/711",
+          "full": "https://picsum.photos/seed/wallzen-animals-5/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "animals-006",
+          "thumb": "https://picsum.photos/seed/wallzen-animals-6/400/711",
+          "full": "https://picsum.photos/seed/wallzen-animals-6/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "animals-007",
+          "thumb": "https://picsum.photos/seed/wallzen-animals-7/400/711",
+          "full": "https://picsum.photos/seed/wallzen-animals-7/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "animals-008",
+          "thumb": "https://picsum.photos/seed/wallzen-animals-8/400/711",
+          "full": "https://picsum.photos/seed/wallzen-animals-8/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "animals-009",
+          "thumb": "https://picsum.photos/seed/wallzen-animals-9/400/711",
+          "full": "https://picsum.photos/seed/wallzen-animals-9/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "animals-010",
+          "thumb": "https://picsum.photos/seed/wallzen-animals-10/400/711",
+          "full": "https://picsum.photos/seed/wallzen-animals-10/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "animals-011",
+          "thumb": "https://picsum.photos/seed/wallzen-animals-11/400/711",
+          "full": "https://picsum.photos/seed/wallzen-animals-11/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "animals-012",
+          "thumb": "https://picsum.photos/seed/wallzen-animals-12/400/711",
+          "full": "https://picsum.photos/seed/wallzen-animals-12/1080/1920",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "anime",
+      "name": "Anime",
+      "cover": "https://picsum.photos/seed/wallzen-anime-cover/800/400",
+      "wallpapers": [
+        {
+          "id": "anime-001",
+          "thumb": "https://picsum.photos/seed/wallzen-anime-1/400/711",
+          "full": "https://picsum.photos/seed/wallzen-anime-1/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "anime-002",
+          "thumb": "https://picsum.photos/seed/wallzen-anime-2/400/711",
+          "full": "https://picsum.photos/seed/wallzen-anime-2/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "anime-003",
+          "thumb": "https://picsum.photos/seed/wallzen-anime-3/400/711",
+          "full": "https://picsum.photos/seed/wallzen-anime-3/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "anime-004",
+          "thumb": "https://picsum.photos/seed/wallzen-anime-4/400/711",
+          "full": "https://picsum.photos/seed/wallzen-anime-4/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "anime-005",
+          "thumb": "https://picsum.photos/seed/wallzen-anime-5/400/711",
+          "full": "https://picsum.photos/seed/wallzen-anime-5/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "anime-006",
+          "thumb": "https://picsum.photos/seed/wallzen-anime-6/400/711",
+          "full": "https://picsum.photos/seed/wallzen-anime-6/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "anime-007",
+          "thumb": "https://picsum.photos/seed/wallzen-anime-7/400/711",
+          "full": "https://picsum.photos/seed/wallzen-anime-7/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "anime-008",
+          "thumb": "https://picsum.photos/seed/wallzen-anime-8/400/711",
+          "full": "https://picsum.photos/seed/wallzen-anime-8/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "anime-009",
+          "thumb": "https://picsum.photos/seed/wallzen-anime-9/400/711",
+          "full": "https://picsum.photos/seed/wallzen-anime-9/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "anime-010",
+          "thumb": "https://picsum.photos/seed/wallzen-anime-10/400/711",
+          "full": "https://picsum.photos/seed/wallzen-anime-10/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "anime-011",
+          "thumb": "https://picsum.photos/seed/wallzen-anime-11/400/711",
+          "full": "https://picsum.photos/seed/wallzen-anime-11/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "anime-012",
+          "thumb": "https://picsum.photos/seed/wallzen-anime-12/400/711",
+          "full": "https://picsum.photos/seed/wallzen-anime-12/1080/1920",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "architecture",
+      "name": "Architecture",
+      "cover": "https://picsum.photos/seed/wallzen-architecture-cover/800/400",
+      "wallpapers": [
+        {
+          "id": "architecture-001",
+          "thumb": "https://picsum.photos/seed/wallzen-architecture-1/400/711",
+          "full": "https://picsum.photos/seed/wallzen-architecture-1/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "architecture-002",
+          "thumb": "https://picsum.photos/seed/wallzen-architecture-2/400/711",
+          "full": "https://picsum.photos/seed/wallzen-architecture-2/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "architecture-003",
+          "thumb": "https://picsum.photos/seed/wallzen-architecture-3/400/711",
+          "full": "https://picsum.photos/seed/wallzen-architecture-3/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "architecture-004",
+          "thumb": "https://picsum.photos/seed/wallzen-architecture-4/400/711",
+          "full": "https://picsum.photos/seed/wallzen-architecture-4/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "architecture-005",
+          "thumb": "https://picsum.photos/seed/wallzen-architecture-5/400/711",
+          "full": "https://picsum.photos/seed/wallzen-architecture-5/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "architecture-006",
+          "thumb": "https://picsum.photos/seed/wallzen-architecture-6/400/711",
+          "full": "https://picsum.photos/seed/wallzen-architecture-6/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "architecture-007",
+          "thumb": "https://picsum.photos/seed/wallzen-architecture-7/400/711",
+          "full": "https://picsum.photos/seed/wallzen-architecture-7/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "architecture-008",
+          "thumb": "https://picsum.photos/seed/wallzen-architecture-8/400/711",
+          "full": "https://picsum.photos/seed/wallzen-architecture-8/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "architecture-009",
+          "thumb": "https://picsum.photos/seed/wallzen-architecture-9/400/711",
+          "full": "https://picsum.photos/seed/wallzen-architecture-9/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "architecture-010",
+          "thumb": "https://picsum.photos/seed/wallzen-architecture-10/400/711",
+          "full": "https://picsum.photos/seed/wallzen-architecture-10/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "architecture-011",
+          "thumb": "https://picsum.photos/seed/wallzen-architecture-11/400/711",
+          "full": "https://picsum.photos/seed/wallzen-architecture-11/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "architecture-012",
+          "thumb": "https://picsum.photos/seed/wallzen-architecture-12/400/711",
+          "full": "https://picsum.photos/seed/wallzen-architecture-12/1080/1920",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "beach",
+      "name": "Beach",
+      "cover": "https://picsum.photos/seed/wallzen-beach-cover/800/400",
+      "wallpapers": [
+        {
+          "id": "beach-001",
+          "thumb": "https://picsum.photos/seed/wallzen-beach-1/400/711",
+          "full": "https://picsum.photos/seed/wallzen-beach-1/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "beach-002",
+          "thumb": "https://picsum.photos/seed/wallzen-beach-2/400/711",
+          "full": "https://picsum.photos/seed/wallzen-beach-2/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "beach-003",
+          "thumb": "https://picsum.photos/seed/wallzen-beach-3/400/711",
+          "full": "https://picsum.photos/seed/wallzen-beach-3/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "beach-004",
+          "thumb": "https://picsum.photos/seed/wallzen-beach-4/400/711",
+          "full": "https://picsum.photos/seed/wallzen-beach-4/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "beach-005",
+          "thumb": "https://picsum.photos/seed/wallzen-beach-5/400/711",
+          "full": "https://picsum.photos/seed/wallzen-beach-5/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "beach-006",
+          "thumb": "https://picsum.photos/seed/wallzen-beach-6/400/711",
+          "full": "https://picsum.photos/seed/wallzen-beach-6/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "beach-007",
+          "thumb": "https://picsum.photos/seed/wallzen-beach-7/400/711",
+          "full": "https://picsum.photos/seed/wallzen-beach-7/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "beach-008",
+          "thumb": "https://picsum.photos/seed/wallzen-beach-8/400/711",
+          "full": "https://picsum.photos/seed/wallzen-beach-8/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "beach-009",
+          "thumb": "https://picsum.photos/seed/wallzen-beach-9/400/711",
+          "full": "https://picsum.photos/seed/wallzen-beach-9/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "beach-010",
+          "thumb": "https://picsum.photos/seed/wallzen-beach-10/400/711",
+          "full": "https://picsum.photos/seed/wallzen-beach-10/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "beach-011",
+          "thumb": "https://picsum.photos/seed/wallzen-beach-11/400/711",
+          "full": "https://picsum.photos/seed/wallzen-beach-11/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "beach-012",
+          "thumb": "https://picsum.photos/seed/wallzen-beach-12/400/711",
+          "full": "https://picsum.photos/seed/wallzen-beach-12/1080/1920",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "cars",
+      "name": "Cars",
+      "cover": "https://picsum.photos/seed/wallzen-cars-cover/800/400",
+      "wallpapers": [
+        {
+          "id": "cars-001",
+          "thumb": "https://picsum.photos/seed/wallzen-cars-1/400/711",
+          "full": "https://picsum.photos/seed/wallzen-cars-1/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "cars-002",
+          "thumb": "https://picsum.photos/seed/wallzen-cars-2/400/711",
+          "full": "https://picsum.photos/seed/wallzen-cars-2/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "cars-003",
+          "thumb": "https://picsum.photos/seed/wallzen-cars-3/400/711",
+          "full": "https://picsum.photos/seed/wallzen-cars-3/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "cars-004",
+          "thumb": "https://picsum.photos/seed/wallzen-cars-4/400/711",
+          "full": "https://picsum.photos/seed/wallzen-cars-4/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "cars-005",
+          "thumb": "https://picsum.photos/seed/wallzen-cars-5/400/711",
+          "full": "https://picsum.photos/seed/wallzen-cars-5/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "cars-006",
+          "thumb": "https://picsum.photos/seed/wallzen-cars-6/400/711",
+          "full": "https://picsum.photos/seed/wallzen-cars-6/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "cars-007",
+          "thumb": "https://picsum.photos/seed/wallzen-cars-7/400/711",
+          "full": "https://picsum.photos/seed/wallzen-cars-7/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "cars-008",
+          "thumb": "https://picsum.photos/seed/wallzen-cars-8/400/711",
+          "full": "https://picsum.photos/seed/wallzen-cars-8/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "cars-009",
+          "thumb": "https://picsum.photos/seed/wallzen-cars-9/400/711",
+          "full": "https://picsum.photos/seed/wallzen-cars-9/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "cars-010",
+          "thumb": "https://picsum.photos/seed/wallzen-cars-10/400/711",
+          "full": "https://picsum.photos/seed/wallzen-cars-10/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "cars-011",
+          "thumb": "https://picsum.photos/seed/wallzen-cars-11/400/711",
+          "full": "https://picsum.photos/seed/wallzen-cars-11/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "cars-012",
+          "thumb": "https://picsum.photos/seed/wallzen-cars-12/400/711",
+          "full": "https://picsum.photos/seed/wallzen-cars-12/1080/1920",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "flowers",
+      "name": "Flowers",
+      "cover": "https://picsum.photos/seed/wallzen-flowers-cover/800/400",
+      "wallpapers": [
+        {
+          "id": "flowers-001",
+          "thumb": "https://picsum.photos/seed/wallzen-flowers-1/400/711",
+          "full": "https://picsum.photos/seed/wallzen-flowers-1/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "flowers-002",
+          "thumb": "https://picsum.photos/seed/wallzen-flowers-2/400/711",
+          "full": "https://picsum.photos/seed/wallzen-flowers-2/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "flowers-003",
+          "thumb": "https://picsum.photos/seed/wallzen-flowers-3/400/711",
+          "full": "https://picsum.photos/seed/wallzen-flowers-3/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "flowers-004",
+          "thumb": "https://picsum.photos/seed/wallzen-flowers-4/400/711",
+          "full": "https://picsum.photos/seed/wallzen-flowers-4/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "flowers-005",
+          "thumb": "https://picsum.photos/seed/wallzen-flowers-5/400/711",
+          "full": "https://picsum.photos/seed/wallzen-flowers-5/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "flowers-006",
+          "thumb": "https://picsum.photos/seed/wallzen-flowers-6/400/711",
+          "full": "https://picsum.photos/seed/wallzen-flowers-6/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "flowers-007",
+          "thumb": "https://picsum.photos/seed/wallzen-flowers-7/400/711",
+          "full": "https://picsum.photos/seed/wallzen-flowers-7/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "flowers-008",
+          "thumb": "https://picsum.photos/seed/wallzen-flowers-8/400/711",
+          "full": "https://picsum.photos/seed/wallzen-flowers-8/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "flowers-009",
+          "thumb": "https://picsum.photos/seed/wallzen-flowers-9/400/711",
+          "full": "https://picsum.photos/seed/wallzen-flowers-9/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "flowers-010",
+          "thumb": "https://picsum.photos/seed/wallzen-flowers-10/400/711",
+          "full": "https://picsum.photos/seed/wallzen-flowers-10/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "flowers-011",
+          "thumb": "https://picsum.photos/seed/wallzen-flowers-11/400/711",
+          "full": "https://picsum.photos/seed/wallzen-flowers-11/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "flowers-012",
+          "thumb": "https://picsum.photos/seed/wallzen-flowers-12/400/711",
+          "full": "https://picsum.photos/seed/wallzen-flowers-12/1080/1920",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "name": "Games",
+      "cover": "https://picsum.photos/seed/wallzen-games-cover/800/400",
+      "wallpapers": [
+        {
+          "id": "games-001",
+          "thumb": "https://picsum.photos/seed/wallzen-games-1/400/711",
+          "full": "https://picsum.photos/seed/wallzen-games-1/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "games-002",
+          "thumb": "https://picsum.photos/seed/wallzen-games-2/400/711",
+          "full": "https://picsum.photos/seed/wallzen-games-2/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "games-003",
+          "thumb": "https://picsum.photos/seed/wallzen-games-3/400/711",
+          "full": "https://picsum.photos/seed/wallzen-games-3/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "games-004",
+          "thumb": "https://picsum.photos/seed/wallzen-games-4/400/711",
+          "full": "https://picsum.photos/seed/wallzen-games-4/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "games-005",
+          "thumb": "https://picsum.photos/seed/wallzen-games-5/400/711",
+          "full": "https://picsum.photos/seed/wallzen-games-5/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "games-006",
+          "thumb": "https://picsum.photos/seed/wallzen-games-6/400/711",
+          "full": "https://picsum.photos/seed/wallzen-games-6/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "games-007",
+          "thumb": "https://picsum.photos/seed/wallzen-games-7/400/711",
+          "full": "https://picsum.photos/seed/wallzen-games-7/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "games-008",
+          "thumb": "https://picsum.photos/seed/wallzen-games-8/400/711",
+          "full": "https://picsum.photos/seed/wallzen-games-8/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "games-009",
+          "thumb": "https://picsum.photos/seed/wallzen-games-9/400/711",
+          "full": "https://picsum.photos/seed/wallzen-games-9/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "games-010",
+          "thumb": "https://picsum.photos/seed/wallzen-games-10/400/711",
+          "full": "https://picsum.photos/seed/wallzen-games-10/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "games-011",
+          "thumb": "https://picsum.photos/seed/wallzen-games-11/400/711",
+          "full": "https://picsum.photos/seed/wallzen-games-11/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "games-012",
+          "thumb": "https://picsum.photos/seed/wallzen-games-12/400/711",
+          "full": "https://picsum.photos/seed/wallzen-games-12/1080/1920",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "cover": "https://picsum.photos/seed/wallzen-nature-cover/800/400",
+      "wallpapers": [
+        {
+          "id": "nature-001",
+          "thumb": "https://picsum.photos/seed/wallzen-nature-1/400/711",
+          "full": "https://picsum.photos/seed/wallzen-nature-1/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "nature-002",
+          "thumb": "https://picsum.photos/seed/wallzen-nature-2/400/711",
+          "full": "https://picsum.photos/seed/wallzen-nature-2/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "nature-003",
+          "thumb": "https://picsum.photos/seed/wallzen-nature-3/400/711",
+          "full": "https://picsum.photos/seed/wallzen-nature-3/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "nature-004",
+          "thumb": "https://picsum.photos/seed/wallzen-nature-4/400/711",
+          "full": "https://picsum.photos/seed/wallzen-nature-4/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "nature-005",
+          "thumb": "https://picsum.photos/seed/wallzen-nature-5/400/711",
+          "full": "https://picsum.photos/seed/wallzen-nature-5/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "nature-006",
+          "thumb": "https://picsum.photos/seed/wallzen-nature-6/400/711",
+          "full": "https://picsum.photos/seed/wallzen-nature-6/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "nature-007",
+          "thumb": "https://picsum.photos/seed/wallzen-nature-7/400/711",
+          "full": "https://picsum.photos/seed/wallzen-nature-7/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "nature-008",
+          "thumb": "https://picsum.photos/seed/wallzen-nature-8/400/711",
+          "full": "https://picsum.photos/seed/wallzen-nature-8/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "nature-009",
+          "thumb": "https://picsum.photos/seed/wallzen-nature-9/400/711",
+          "full": "https://picsum.photos/seed/wallzen-nature-9/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "nature-010",
+          "thumb": "https://picsum.photos/seed/wallzen-nature-10/400/711",
+          "full": "https://picsum.photos/seed/wallzen-nature-10/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "nature-011",
+          "thumb": "https://picsum.photos/seed/wallzen-nature-11/400/711",
+          "full": "https://picsum.photos/seed/wallzen-nature-11/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "nature-012",
+          "thumb": "https://picsum.photos/seed/wallzen-nature-12/400/711",
+          "full": "https://picsum.photos/seed/wallzen-nature-12/1080/1920",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "neon",
+      "name": "Neon",
+      "cover": "https://picsum.photos/seed/wallzen-neon-cover/800/400",
+      "wallpapers": [
+        {
+          "id": "neon-001",
+          "thumb": "https://picsum.photos/seed/wallzen-neon-1/400/711",
+          "full": "https://picsum.photos/seed/wallzen-neon-1/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "neon-002",
+          "thumb": "https://picsum.photos/seed/wallzen-neon-2/400/711",
+          "full": "https://picsum.photos/seed/wallzen-neon-2/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "neon-003",
+          "thumb": "https://picsum.photos/seed/wallzen-neon-3/400/711",
+          "full": "https://picsum.photos/seed/wallzen-neon-3/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "neon-004",
+          "thumb": "https://picsum.photos/seed/wallzen-neon-4/400/711",
+          "full": "https://picsum.photos/seed/wallzen-neon-4/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "neon-005",
+          "thumb": "https://picsum.photos/seed/wallzen-neon-5/400/711",
+          "full": "https://picsum.photos/seed/wallzen-neon-5/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "neon-006",
+          "thumb": "https://picsum.photos/seed/wallzen-neon-6/400/711",
+          "full": "https://picsum.photos/seed/wallzen-neon-6/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "neon-007",
+          "thumb": "https://picsum.photos/seed/wallzen-neon-7/400/711",
+          "full": "https://picsum.photos/seed/wallzen-neon-7/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "neon-008",
+          "thumb": "https://picsum.photos/seed/wallzen-neon-8/400/711",
+          "full": "https://picsum.photos/seed/wallzen-neon-8/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "neon-009",
+          "thumb": "https://picsum.photos/seed/wallzen-neon-9/400/711",
+          "full": "https://picsum.photos/seed/wallzen-neon-9/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "neon-010",
+          "thumb": "https://picsum.photos/seed/wallzen-neon-10/400/711",
+          "full": "https://picsum.photos/seed/wallzen-neon-10/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "neon-011",
+          "thumb": "https://picsum.photos/seed/wallzen-neon-11/400/711",
+          "full": "https://picsum.photos/seed/wallzen-neon-11/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "neon-012",
+          "thumb": "https://picsum.photos/seed/wallzen-neon-12/400/711",
+          "full": "https://picsum.photos/seed/wallzen-neon-12/1080/1920",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "cover": "https://picsum.photos/seed/wallzen-space-cover/800/400",
+      "wallpapers": [
+        {
+          "id": "space-001",
+          "thumb": "https://picsum.photos/seed/wallzen-space-1/400/711",
+          "full": "https://picsum.photos/seed/wallzen-space-1/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "space-002",
+          "thumb": "https://picsum.photos/seed/wallzen-space-2/400/711",
+          "full": "https://picsum.photos/seed/wallzen-space-2/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "space-003",
+          "thumb": "https://picsum.photos/seed/wallzen-space-3/400/711",
+          "full": "https://picsum.photos/seed/wallzen-space-3/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "space-004",
+          "thumb": "https://picsum.photos/seed/wallzen-space-4/400/711",
+          "full": "https://picsum.photos/seed/wallzen-space-4/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "space-005",
+          "thumb": "https://picsum.photos/seed/wallzen-space-5/400/711",
+          "full": "https://picsum.photos/seed/wallzen-space-5/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "space-006",
+          "thumb": "https://picsum.photos/seed/wallzen-space-6/400/711",
+          "full": "https://picsum.photos/seed/wallzen-space-6/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "space-007",
+          "thumb": "https://picsum.photos/seed/wallzen-space-7/400/711",
+          "full": "https://picsum.photos/seed/wallzen-space-7/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "space-008",
+          "thumb": "https://picsum.photos/seed/wallzen-space-8/400/711",
+          "full": "https://picsum.photos/seed/wallzen-space-8/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "space-009",
+          "thumb": "https://picsum.photos/seed/wallzen-space-9/400/711",
+          "full": "https://picsum.photos/seed/wallzen-space-9/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "space-010",
+          "thumb": "https://picsum.photos/seed/wallzen-space-10/400/711",
+          "full": "https://picsum.photos/seed/wallzen-space-10/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "space-011",
+          "thumb": "https://picsum.photos/seed/wallzen-space-11/400/711",
+          "full": "https://picsum.photos/seed/wallzen-space-11/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "space-012",
+          "thumb": "https://picsum.photos/seed/wallzen-space-12/400/711",
+          "full": "https://picsum.photos/seed/wallzen-space-12/1080/1920",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "minimal",
+      "name": "Minimal",
+      "cover": "https://picsum.photos/seed/wallzen-minimal-cover/800/400",
+      "wallpapers": [
+        {
+          "id": "minimal-001",
+          "thumb": "https://picsum.photos/seed/wallzen-minimal-1/400/711",
+          "full": "https://picsum.photos/seed/wallzen-minimal-1/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "minimal-002",
+          "thumb": "https://picsum.photos/seed/wallzen-minimal-2/400/711",
+          "full": "https://picsum.photos/seed/wallzen-minimal-2/1080/1920",
+          "featured": true
+        },
+        {
+          "id": "minimal-003",
+          "thumb": "https://picsum.photos/seed/wallzen-minimal-3/400/711",
+          "full": "https://picsum.photos/seed/wallzen-minimal-3/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "minimal-004",
+          "thumb": "https://picsum.photos/seed/wallzen-minimal-4/400/711",
+          "full": "https://picsum.photos/seed/wallzen-minimal-4/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "minimal-005",
+          "thumb": "https://picsum.photos/seed/wallzen-minimal-5/400/711",
+          "full": "https://picsum.photos/seed/wallzen-minimal-5/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "minimal-006",
+          "thumb": "https://picsum.photos/seed/wallzen-minimal-6/400/711",
+          "full": "https://picsum.photos/seed/wallzen-minimal-6/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "minimal-007",
+          "thumb": "https://picsum.photos/seed/wallzen-minimal-7/400/711",
+          "full": "https://picsum.photos/seed/wallzen-minimal-7/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "minimal-008",
+          "thumb": "https://picsum.photos/seed/wallzen-minimal-8/400/711",
+          "full": "https://picsum.photos/seed/wallzen-minimal-8/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "minimal-009",
+          "thumb": "https://picsum.photos/seed/wallzen-minimal-9/400/711",
+          "full": "https://picsum.photos/seed/wallzen-minimal-9/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "minimal-010",
+          "thumb": "https://picsum.photos/seed/wallzen-minimal-10/400/711",
+          "full": "https://picsum.photos/seed/wallzen-minimal-10/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "minimal-011",
+          "thumb": "https://picsum.photos/seed/wallzen-minimal-11/400/711",
+          "full": "https://picsum.photos/seed/wallzen-minimal-11/1080/1920",
+          "featured": false
+        },
+        {
+          "id": "minimal-012",
+          "thumb": "https://picsum.photos/seed/wallzen-minimal-12/400/711",
+          "full": "https://picsum.photos/seed/wallzen-minimal-12/1080/1920",
+          "featured": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "wallpapersUrl": "https://withspy.com/wallzen/wallpapers.json",
+  "privacyPolicyUrl": "https://withspy.com/wallzen/privacy.html",
+  "termsUrl": "https://withspy.com/wallzen/terms.html",
+  "contactEmail": "abbes.elahrami@gmail.com",
+  "shareAppUrl": "https://apps.apple.com/app/id0000000000",
+  "showLanguageEveryLaunch": false,
+  "ads": {
+    "enabled": true,
+    "appOpenEnabled": true,
+    "appOpenOnResume": true,
+    "bannerEnabled": true,
+    "mrecEnabled": true,
+    "interstitialEnabled": true,
+    "appOpenId": "ca-app-pub-3940256099942544/5575463023",
+    "bannerId": "ca-app-pub-3940256099942544/2934735716",
+    "mrecId": "ca-app-pub-3940256099942544/2934735716",
+    "interstitialId": "ca-app-pub-3940256099942544/4411468910",
+    "interstitialOnLanguageNext": true,
+    "interstitialOnOnboardingDone": true,
+    "interstitialOnWallpaperOpen": true,
+    "interstitialOnBack": true,
+    "swipeInterval": 3,
+    "minSecondsBetweenInterstitials": 15
+  }
+}
