@@ -10,7 +10,8 @@
           "id": "abstract-001",
           "thumb": "https://picsum.photos/seed/wallzen-abstract-1/400/711",
           "full": "https://picsum.photos/seed/wallzen-abstract-1/1080/1920",
-          "featured": true
+          "featured": true,
+          "premium": true
         },
         {
           "id": "abstract-002",
