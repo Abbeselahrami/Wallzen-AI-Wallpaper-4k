@@ -7,7 +7,7 @@
   "showLanguageEveryLaunch": true,
   "liveEnabled": true,
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "appOpenEnabled": true,
     "appOpenOnResume": true,
     "bannerEnabled": true,
