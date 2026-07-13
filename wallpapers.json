@@ -6,9 +6,9 @@
       "name": "Live",
       "cover": "https://picsum.photos/seed/wallzen-live-cover/800/400",
       "wallpapers": [
-        {"id": "live-001", "thumb": "https://picsum.photos/seed/wallzen-live-001/400/711", "full": "https://picsum.photos/seed/wallzen-live-001/1080/1920", "video": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/1080/Jellyfish_1080_10s_5MB.mp4", "featured": true, "premium": false},
-        {"id": "live-002", "thumb": "https://picsum.photos/seed/wallzen-live-002/400/711", "full": "https://picsum.photos/seed/wallzen-live-002/1080/1920", "video": "https://test-videos.co.uk/vids/sintel/mp4/h264/1080/Sintel_1080_10s_5MB.mp4", "featured": false, "premium": true},
-        {"id": "live-003", "thumb": "https://picsum.photos/seed/wallzen-live-003/400/711", "full": "https://picsum.photos/seed/wallzen-live-003/1080/1920", "video": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_5MB.mp4", "featured": false, "premium": false}
+        {"id": "live-001", "thumb": "https://picsum.photos/seed/wallzen-live-001/400/711", "full": "https://picsum.photos/seed/wallzen-live-001/1080/1920", "video": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/refs/heads/main/live/live-001.mov", "featured": true, "premium": false},
+        {"id": "live-002", "thumb": "https://picsum.photos/seed/wallzen-live-002/400/711", "full": "https://picsum.photos/seed/wallzen-live-002/1080/1920", "video": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/refs/heads/main/live/live-002.mov", "featured": false, "premium": true},
+        {"id": "live-003", "thumb": "https://picsum.photos/seed/wallzen-live-003/400/711", "full": "https://picsum.photos/seed/wallzen-live-003/1080/1920", "video": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/refs/heads/main/live/live-003.mov", "featured": false, "premium": false}
       ]
     },
     {
