@@ -1,14 +1,16 @@
 {
-  "version": 2,
+  "version": 3,
   "categories": [
     {
       "id": "live",
       "name": "Live",
-      "cover": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/abstract/full/abstract-012.jpg",
+      "cover": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/full/live-001.jpg",
       "wallpapers": [
-        {"id": "live-001", "thumb": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/abstract/thumb/abstract-012.jpg", "full": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/abstract/full/abstract-012.jpg", "video": "https://media.w3.org/2010/05/sintel/trailer.mp4", "featured": true, "premium": false},
-        {"id": "live-002", "thumb": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/abstract/thumb/abstract-001.jpg", "full": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/abstract/full/abstract-001.jpg", "video": "https://media.w3.org/2010/05/video/movie_300.mp4", "featured": false, "premium": true},
-        {"id": "live-003", "thumb": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/abstract/thumb/abstract-002.jpg", "full": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/abstract/full/abstract-002.jpg", "video": "https://media.w3.org/2010/05/bunny/trailer.mp4", "featured": false, "premium": false}
+        {"id": "live-001", "thumb": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/thumb/live-001.jpg", "full": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/full/live-001.jpg", "video": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/video/live-001.mp4", "featured": true},
+        {"id": "live-002", "thumb": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/thumb/live-002.jpg", "full": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/full/live-002.jpg", "video": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/video/live-002.mp4", "featured": true},
+        {"id": "live-003", "thumb": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/thumb/live-003.jpg", "full": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/full/live-003.jpg", "video": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/video/live-003.mp4", "featured": false, "premium": true},
+        {"id": "live-004", "thumb": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/thumb/live-004.jpg", "full": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/full/live-004.jpg", "video": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/video/live-004.mp4", "featured": false},
+        {"id": "live-005", "thumb": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/thumb/live-005.jpg", "full": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/full/live-005.jpg", "video": "https://raw.githubusercontent.com/Abbeselahrami/Wallzen-AI-Wallpaper-4k/main/wallpapers/live/video/live-005.mp4", "featured": false}
       ]
     },
     {
