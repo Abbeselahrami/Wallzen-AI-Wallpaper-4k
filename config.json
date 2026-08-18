@@ -11,7 +11,7 @@
     "appOpenEnabled": true,
     "appOpenOnResume": true,
     "bannerEnabled": true,
-    "mrecEnabled": true,
+    "mrecEnabled": false,
     "interstitialEnabled": true,
     "rewardedEnabled": true,
     "premiumRequiresRewarded": false,
