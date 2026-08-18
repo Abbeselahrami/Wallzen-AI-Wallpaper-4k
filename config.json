@@ -4,7 +4,7 @@
   "termsUrl": "https://sites.google.com/view/live-wallpaper-4k-terms-us",
   "contactEmail": "mobistoryltd@outlook.com",
   "shareAppUrl": "https://apps.apple.com/app/id6790892377",
-  "showLanguageEveryLaunch": false,
+  "showLanguageEveryLaunch": true,
   "liveEnabled": true,
   "ads": {
     "enabled": true,
