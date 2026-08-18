@@ -25,7 +25,7 @@
     "interstitialOnWallpaperOpen": true,
     "interstitialOnBack": true,
     "interstitialOnDownload": true,
-    "swipeInterval": 5,
+    "swipeInterval": 3,
     "minSecondsBetweenInterstitials": 15
   }
 }
